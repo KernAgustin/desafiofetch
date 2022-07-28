@@ -1,0 +1,77 @@
+{
+"productos":[
+		{	"code" :"01",
+			"name":"MACETA TIPO 01",
+			"precio":"10000",
+			"categoria":"MACETA 01", 
+			"descripcion":"descripción producto",
+			"imagen":".\\img\\Macetas\\MACETA_TIPO_01.webp"      
+		},
+		{	"code" :"02",
+			"name":"MACETA TIPO 02",
+			"precio":"9000",
+			"categoria":"MACETA 02", 
+			"descripcion":"descripción producto",
+			"imagen":".\\img\\Macetas\\MACETA_TIPO_02.webp"      
+		},
+		{	"code" :"03",
+			"name":"MACETA TIPO 03",
+			"precio":"9000",
+			"categoria":"MACETA 03", 
+			"descripcion":"descripción producto",
+			"imagen":".\\img\\Macetas\\MACETA_TIPO_03.webp"      
+		},
+		{	"code" :"04",
+			"name":"MACETA TIPO 04",
+			"precio":"8500",
+			"categoria":"MACETA 04", 
+			"descripcion":"descripción producto",
+			"imagen":".\\img\\Macetas\\MACETA_TIPO_04.webp"      
+		},
+		{	"code" :"05",
+			"name":"MACETA TIPO 05",
+			"precio":"9500",
+			"categoria":"MACETA 05", 
+			"descripcion":"descripción producto",
+			"imagen":".\\img\\Macetas\\MACETA_TIPO_05.webp"      
+		},
+		{	"code" :"06",
+			"name":"MACETA TIPO 06",
+			"precio":"10500",
+			"categoria":"MACETA 06", 
+			"descripcion":"descripción producto",
+			"imagen":".\\img\\Macetas\\MACETA_TIPO_06.webp"      
+		},
+		{	"code" :"07",
+			"name":"MACETA TIPO 07",
+			"precio":"12000",
+			"categoria":"MACETA 07", 
+			"descripcion":"descripción producto",
+			"imagen":".\\img\\Macetas\\MACETA_TIPO_07.webp"      
+		},
+		{	"code" :"08",
+			"name":"MACETA TIPO 08",
+			"precio":"7000",
+			"categoria":"MACETA 08", 
+			"descripcion":"descripción producto",
+			"imagen":".\\img\\Macetas\\MACETA_TIPO_08.webp"      
+		},
+		{	"code" :"09",
+			"name":"MACETA TIPO 09",
+			"precio":"7500",
+			"categoria":"MACETA 09", 
+			"descripcion":"descripción producto",
+			"imagen":".\\img\\Macetas\\MACETA_TIPO_09.webp"      
+		},
+		{	"code" :"10",
+			"name":"MACETA TIPO 10",
+			"precio":"15000",
+			"categoria":"MACETA 10", 
+			"descripcion":"descripción producto",
+			"imagen":".\\img\\Macetas\\MACETA_TIPO_10.webp"      
+		}
+]
+
+}
+
+	
